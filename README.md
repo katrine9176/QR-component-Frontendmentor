@@ -20,20 +20,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Desktop version](./screenshots/desktop-version.png)
 
 It is desktop view.
-
 ![Tablet version](./screenshots/tablet-version.png)
 
 It is tablet view.
-
 ![Mobile version](./screenshots/mobile-version.png)
-
 It is mobile view.
 
 
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/katrine9176/QR-component-Frontendmentor)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://katrine9176.github.io/QR-component-Frontendmentor/)
 
 ## My process
 
