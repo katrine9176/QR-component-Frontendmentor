@@ -32,7 +32,7 @@ It is mobile view.
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/katrine9176/QR-component-Frontendmentor)
 - Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ## My process
