@@ -21,7 +21,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 It is desktop view.
 ![Tablet version](./screenshots/tablet-version.png)
-
 It is tablet view.
 ![Mobile version](./screenshots/mobile-version.png)
 It is mobile view.
