@@ -20,11 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Desktop version](./screenshots/desktop-version.png)
 
 It is desktop view.
-![Tablet version](./screenshots/tablet-version.png)
-It is tablet view.
-![Mobile version](./screenshots/mobile-version.png)
-It is mobile view.
-
+![Tablet version](./screenshots/tablet-version.png) It is tablet view.
+![Mobile version](./screenshots/mobile-version.png) It is mobile view.
+ 
 
 ### Links
 
