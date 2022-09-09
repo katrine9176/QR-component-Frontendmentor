@@ -1,5 +1,9 @@
 @use 'colors' as *;
 
+html {
+	font-size: 10px;
+}
+
 * {
 	box-sizing: border-box;
 	margin: 0;
@@ -7,30 +11,31 @@
 }
 
 body {
+	min-height: 100vh;
 	font-family: 'Outfit', sans-serif;
 	background-color: $bgc-color;
 	display: flex;
-	font-size: 16px;
+	align-items: center;
+	justify-content: center;
+	font-size: 1.6rem;
 }
-.card {
-	margin: 80px auto;
-	width: 340px;
-	height: 70vh;
-	border-radius: 25px;
+article {
+	width: 34rem;
+	border-radius: 2.5rem;
 	background-color: $white-color;
 	overflow: hidden;
 	.card-img-top {
-		margin: 20px;
-		height: 300px;
-		border-radius: 15px;
+		margin: 2rem;
+		height: 30rem;
+		border-radius: 1.5rem;
 	}
 	.card-title {
-		margin: 0 25px;
+		margin: 0 2.5rem;
 		text-align: center;
 		color: $title-color;
 	}
 	.card-text {
-		margin: 20px 45px;
+		margin: 2rem 4.5rem;
 		text-align: center;
 		color: $gray-color;
 	}
@@ -40,23 +45,5 @@ body {
 	position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 30px;
-}
-
-@media (min-width: 768px) {
-	.card {
-		height: 45vh;
-	}
-	.attribution {
-		top: 60vh;
-	}
-}
-@media (min-width: 1400px) {
-	.card {
-		height: 55vh;
-	}
-	.attribution {
-		position: absolute;
-        top: 70vh;
-	}
+    bottom: 3rem;
 }
